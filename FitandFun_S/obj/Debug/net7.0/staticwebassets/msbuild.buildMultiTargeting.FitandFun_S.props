@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\FitandFun_S.props" />
+</Project>
